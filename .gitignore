@@ -1,0 +1,14 @@
+# Users file
+*.lixin
+
+# Debug file
+*.lst
+*.lnp
+*.crf
+*.o
+*.d
+*.axf
+*.dep
+*.htm
+*.sct
+*.map
