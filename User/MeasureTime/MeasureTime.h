@@ -4,7 +4,7 @@
   * @author  XinLi
   * @version v1.0
   * @date    24-October-2017
-  * @brief   Header file for MeasureTime.c module.
+  * @brief   Measure program run time module.
   ******************************************************************************
   * @attention
   *
